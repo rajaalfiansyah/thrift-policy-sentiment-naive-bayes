@@ -3,7 +3,7 @@
 A Machine Learning-based NLP web application designed to classify public sentiment on Instagram and TikTok comments regarding the government's second-hand clothing (thrift/monza) import and seizure policy using the Naïve Bayes algorithm.
 
 ## 🚀 Live Demo
-- **URL:** *(Nanti diisi link Vercel)*
+- **URL:** https://thrift-policy-sentiment-naive-bayes.vercel.app
 
 ## ✨ Features
 - Text Preprocessing Pipeline (Case folding, cleaning, tokenizing, stopword removal, stemming).
